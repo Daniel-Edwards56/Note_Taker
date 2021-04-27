@@ -16,7 +16,7 @@ Express will also need to be installed for this code to work.
 
 Npm start is how to invoke this code.
 
-![Alt Text]()
+![Alt Text](https://github.com/Daniel-Edwards56/Note_Taker/blob/main/public/assets/img/Capture.PNG?raw=true)
 
 ## Questions
 
